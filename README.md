@@ -1,2 +1,16 @@
-# auto-reflesh-share-ratio
-discuzX sikemi extended function:auto reflesh share ratio
+#auto reflesh share ratio
+20160110
+
+本人第一次git，搞了一下午才成功
+
+心好累，因为渣渣啊
+
+
+这个小插件写于20151219
+
+起因是因为许多同学没注意保持自己的分享率，导致不能下载
+
+所以，特意写出这个小东西方便同学们
+
+好了，就先说那么多，作为第一次readme的内容吧
+
