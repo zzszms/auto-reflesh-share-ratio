@@ -1,16 +1,19 @@
 #auto reflesh share ratio
 20160110
 
-本人第一次git，搞了一下午才成功
+this is my first git, and i learned how to use git to upload code for hole afternoon
 
-心好累，因为渣渣啊
+i feel tired because i did a lot of mistake
 
 
-这个小插件写于20151219
+this plug was written at 20151219
 
-起因是因为许多同学没注意保持自己的分享率，导致不能下载
+because many friends did not pay attention to keep their ratio over 0.5 and they can not download anythings.
 
-所以，特意写出这个小东西方便同学们
+so, i written this plug to my friends who can not download
 
-好了，就先说那么多，作为第一次readme的内容吧
+oh, fuk, my poor english make me feeling bad bad bad  
+
+this is my first readme and written by english
+
 
